@@ -1,5 +1,5 @@
 /*
-	Verti by HTML5 UP
+	ZeroFour by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -26,17 +26,20 @@
 
 	// Dropdowns.
 		$('#nav > ul').dropotron({
+			offsetY: -22,
 			mode: 'fade',
 			noOpenerFade: true,
-			speed: 300
+			speed: 300,
+			detach: false
 		});
 
 	// Nav.
 
-		// Toggle.
+		// Title Bar.
 			$(
-				'<div id="navToggle">' +
+				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
+					'<span class="title">' + $('#logo').html() + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);

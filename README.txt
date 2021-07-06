@@ -1,10 +1,11 @@
-Verti by HTML5 UP
+ZeroFour by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A super simple + modern responsive website template. Took a slightly different direction
-on the mobile version's slide out nav (floating button versus a full on titlebar).
+A responsive general purpose site template design named as such because it's the fourth
+design up here (very creative I know). Has plenty of room for all sorts of content
+and even multilevel drop down menus.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
@@ -27,4 +28,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+		Dropotron (github.com/ajlkn/jquery.dropotron)
 		Responsive Tools (github.com/ajlkn/responsive-tools)

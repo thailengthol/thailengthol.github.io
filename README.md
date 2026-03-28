@@ -1,8 +1,8 @@
 # Thaileng Thol — Modeller | Hydrologist | M.Eng
 
 📍 Vientiane, Laos PDR &nbsp;|&nbsp; 🇰🇭 Cambodian  
-📞 +856 2052903677 / +855 16851110  
-📧 [thaileng.thol@gmail.com](mailto:thaileng.thol@gmail.com)  
+📞 +856 20 9988 6822 / +855 16 85 11 10  
+📧 [thaileng@mrcmekong.com](mailto:thaileng@mrcmekong.com)  
 🔗 [LinkedIn](https://linkedin.com/in/thailengthol) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/thailengthol)
 
 ---
@@ -14,7 +14,7 @@ A highly motivated and experienced hydrologist with demonstrated ability to work
 ## 💼 Professional Experience
 
 ### Engineering Supervisor — Forecasting Hydrology
-**Xayaburi Power Company Limited (XPCL)** | Laos PDR | *Jan 2022 – Present*
+**Xayaburi Power Company Limited (XPCL)** | Laos PDR | *Jan 2022 – Jan 2023*
 
 - Daily/weekly rain-flow-power forecasting, hydrological data validation, hydro-meteorological measurements & database management
 - Drought & flood forecasting

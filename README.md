@@ -1,4 +1,4 @@
-# Thaileng Thol — Modeller | Hydrologist | M.Eng
+# Thaileng Thol — Hydrologist | M.Eng
 
 📍 Vientiane, Laos PDR &nbsp;|&nbsp; 🇰🇭 Cambodian  
 📞 +856 20 9988 6822 / +855 16 85 11 10  
@@ -63,7 +63,7 @@ Contributed to the **"Smart City"** project integrating hydrodynamic modeling, r
 
 ---
 
-## 🚀 Projects Undertaken
+## 🗂️ Projects Undertaken
 
 | Period | Organization | Project |
 |--------|-------------|---------|
@@ -104,8 +104,8 @@ Contributed to the **"Smart City"** project integrating hydrodynamic modeling, r
 ### Hydrological & Hydraulic Modelling
 `WRF` `HEC-RAS (1D/2D)` `HEC-HMS` `Mike 11` `Mike Urban` `SWAT` `WEAP` `SWMM` `HEC-ResSim` `ModFlow` `Flow2K` `CropWat`
 
-### Programming & Data
-`Python` `Google Earth Engine (GEE)` `R` `LaTeX`
+### Programming Language
+`Python` `Google Earth Engine (GEE) (Java)` `R` `LaTeX`
 
 ### GIS & CAD
 `ArcMap` `QGIS` `AutoCAD` `AutoLand`

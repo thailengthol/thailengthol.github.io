@@ -13,6 +13,38 @@ Hydrologist and Water Engineer with over 10 years of experience across Lancang-M
 
 ## 💼 Professional Experience
 
+### Modeller
+**Mekong River Commission (MRC)** | Vientiane, Laos PDR | *2023 – Present*
+
+Provides modelling and analysis support for transboundary impact assessments of national 
+water resources development projects across the Lower Mekong Basin (LMB), and enhances 
+the Decision Support Framework (DSF) for basin-wide evaluation of climate change and 
+development impacts on hydrology, water quality, flood, drought, fisheries, and ecosystems.
+
+- Deliver technical modelling services across all MRC programme areas and regional 
+  expert/technical bodies, including support for MRC Procedures (PDIES, PWUM, PMFM, 
+  PWQ, and PNPCA) and flood forecasting operations
+- Develop and expand regional and national modelling capabilities in hydrological & 
+  hydrodynamic modelling, sediment & nutrient transport, pollutant dispersal, climate 
+  change, and fisheries modelling
+- Liaise with MRC Member Countries to identify modelling requirements and strengthen 
+  national-level modelling capacity through targeted training and capacity building
+- Maintain and periodically upgrade MIKE suite modelling tools to latest versions, 
+  ensuring data currency and model integrity
+- Develop and implement quality assurance procedures for models and processed 
+  model outputs; support the Chief Hydrologist in data QA/QC for modelling activities
+- Maintain and update the modelling knowledge and database in collaboration with the 
+  Information Systems and Database team
+- Build and strengthen relationships with riparian institutions, international 
+  organizations, and universities to advance regional modelling capacities
+- Prepare Annual Technical Reports on modelling activities in support of MRC Strategic 
+  Plan and Annual Work Plan objectives
+
+`MIKE Suite` `Decision Support Framework (DSF)` `Transboundary Impact Assessment`
+`Hydrological & Hydrodynamic Modelling` `Sediment & Nutrient Modelling`
+`Pollutant Dispersal` `Climate Change` `Flood Forecasting` `Capacity Building`
+`QA/QC` `Water Resources Management`
+
 ### Engineering Supervisor — Forecasting Hydrology
 **Xayaburi Power Company Limited (XPCL)** | Laos PDR | *Jan 2022 – Jan 2023*
 
